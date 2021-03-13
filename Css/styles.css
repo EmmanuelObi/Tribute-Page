@@ -14,7 +14,8 @@ body {
 main {
   margin: 0;
   height: 100vh;
-  background: url(/img/Malcolm\ X.jpeg) no-repeat;
+  background: url("https://i.insider.com/5e4bf8322dae5c3962751b98?width=1000&format=jpeg&auto=webp")
+    no-repeat;
   background-size: cover;
 }
 main nav {
